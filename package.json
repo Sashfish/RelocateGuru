@@ -343,7 +343,7 @@
     "json5": "^2.1.0",
     "jsonfile": "^4.0.0",
     "killable": "^1.0.1",
-    "kind-of": "^6.0.2",
+    "kind-of": "^6.0.3",
     "laravel-echo": "^1.5.4",
     "laravel-echo-server": "^1.5.5",
     "last-call-webpack-plugin": "^3.0.0",
